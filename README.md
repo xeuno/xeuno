@@ -21,7 +21,5 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <a href="https://indecisive-viscount-244.notion.site/943785bbdded4f14b9141dc77472e5b7">
-<img
-src="https://img.shields.io/badge/Profile-blue?style=for-the-badge&logo=Profile&logoColor=white&link=https://indecisive-viscount-244.notion.site/943785bbdded4f14b9141dc77472e5b7
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/profile-0769AD?style=for-the-badge&logo=Notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
 </a>
