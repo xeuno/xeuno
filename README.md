@@ -1,9 +1,3 @@
-### "꾸준한 성장을 추구하는 백엔드 개발자" 양성은 입니다.
-- 꾸준한 활동으로 157개의 포스팅이 있는 기술 블로그를 운영 중입니다.
-- 자율 주행(ROS), 임베디드(RaspberryPi, Jetson Nano), 안드로이드 App 등 다양한 분야 경험을 통한 빠른 습득 및 이해가 가능합니다.
-- 13개의 공모전, 팀 프로젝트 등 다양한 팀 협업 경험을 통해 의사소통 능력을 키워왔습니다.
-- 팀장 역할을 수행하며 팀원들을 이끌고 주어진 시간 안에 프로젝트를 완수할 수 있도록 팀의 방향키 역할을 했습니다.
-<br>
 
 ![SeongeunYang's github stats](https://github-readme-stats.vercel.app/api?username=SeongeunYang&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongeunYang&layout=compact)
