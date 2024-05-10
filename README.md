@@ -27,7 +27,7 @@
   style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   
-  <a href="https://www.notion.so/3d21da000a6141d1b57fbaeccbafd050?pvs=4">
+  <a href="https://indecisive-viscount-244.notion.site/3d21da000a6141d1b57fbaeccbafd050?pvs=4">
   <img src="https://img.shields.io/badge/profile-%23000000?style=for-the-badge&logo=Notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
   </a>
 </div>
